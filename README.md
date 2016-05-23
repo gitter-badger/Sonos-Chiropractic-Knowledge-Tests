@@ -1,4 +1,6 @@
 # Sonos-Chiropractic Knowledge Tests
+
+[![Join the chat at https://gitter.im/apersonnamedmike/Sonos-Chiropractic-Knowledge-Tests](https://badges.gitter.im/apersonnamedmike/Sonos-Chiropractic-Knowledge-Tests.svg)](https://gitter.im/apersonnamedmike/Sonos-Chiropractic-Knowledge-Tests?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 Android app of flash cards for aspiring chiropractors. Has a quiz function built in.
 
 Working on making it work with any lolipop device or newer.
